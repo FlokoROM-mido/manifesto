@@ -177,8 +177,7 @@
   <project path="vendor/qcom/opensource/vibrator" name="LineageOS/android_vendor_qcom_opensource_vibrator" groups="qcom,pdk-qcom" />
   <project path="vendor/qcom/opensource/wfd-commonsys" name="LineageOS/android_vendor_qcom_opensource_wfd-commonsys" groups="qcom,pdk" />
 
-  <!-- Infrastructure
-  <project path="lineage/ansible" name="LineageOS/ansible" groups="infra" revision="master" />
+  <!-- Infrastructure -->
   <project path="lineage/charter" name="LineageOS/charter" groups="infra" revision="master" />
   <project path="lineage/crowdin" name="LineageOS/cm_crowdin" groups="infra" revision="master" />
   <project path="lineage/hudson" name="LineageOS/hudson" groups="infra" revision="master" />
