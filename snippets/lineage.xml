@@ -21,6 +21,7 @@
        a local manifest if you desire x86_64 Webview -->
   <!-- <project path="external/chromium-webview/prebuilt/x86_64" name="LineageOS/android/android_external_chromium-webview_prebuilt_x86_64" groups="pdk" clone-depth="1" revision="main" remote="gitlab" /> -->
   <project path="external/exfatprogs" name="LineageOS/android_external_exfatprogs" />
+  <project path="external/expat" name="LineageOS/android_external_expat" groups="pdk" />
   <project path="external/htop" name="LineageOS/android_external_htop" />
   <project path="external/libncurses" name="LineageOS/android_external_libncurses" />
   <project path="external/libnfc-nxp" name="LineageOS/android_external_libnfc-nxp" />
